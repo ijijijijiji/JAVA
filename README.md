@@ -2,7 +2,7 @@
 
 > 실행 결과
 
-![image](https://github.com/ijijijijiji/JAVA/assets/129851513/bc5f0ca4-6782-4442-b479-123bbbbb8fd9)
+![image](https://github.com/ijijijijiji/JAVA/assets/129851513/01435a61-3798-4627-b702-0a5dd4889359)
 
 ---
 
