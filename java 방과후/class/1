@@ -1,0 +1,29 @@
+class TestName{
+	static void print() {
+		System.out.println("X");
+	}
+	void print2() {
+		System.out.println("Y");
+	}
+}
+
+public class day {
+
+	public static void main(String[] args) {
+		
+		System.out.println("M");
+		TestName.print();                      //static을 사용한 경우
+		
+		System.out.println("N");
+		TestName name = new TestName();        
+//  TestName name2 = new TestName();
+			.
+			.
+			.
+		name.print2();
+		
+	}
+
+}
+​
+s
