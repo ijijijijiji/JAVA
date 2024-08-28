@@ -13,8 +13,10 @@ public class Static {
 		
 		Student n1 = new Student("John");
 		System.out.println(n1.count);
+		
 		Student n2 = new Student("Nim");
 		System.out.println(n2.count);
+		
 		Student n3 = new Student("Sun");
 		System.out.println(n3.count);
 	}
