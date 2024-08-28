@@ -19,5 +19,7 @@ public class Static {
 		
 		Student n3 = new Student("Sun");
 		System.out.println(n3.count);
+
+		System.out.println(Student.count);
 	}
 }
