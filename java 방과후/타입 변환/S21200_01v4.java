@@ -24,5 +24,12 @@ public class S21200_01v4 {
 		double result = (double) x/y;
 		
 		System.out.println("result: " + result);
+		
+		result = 1 / 2.;
+		System.out.println("result: " + result);
+		
+		float f_result = 1 /(float) 2;
+		System.out.println("f_result: " + f_result);
 	}
 }
+
