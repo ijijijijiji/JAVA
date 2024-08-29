@@ -39,3 +39,8 @@
 > 실행 결과
 
 ![image](https://github.com/user-attachments/assets/91616186-27ad-4ba4-905d-53308efb6426)
+
+> double형으로 강제 형변환을 해주었을 때 실행 결과
+
+![image](https://github.com/user-attachments/assets/a3d74d64-8cb5-4546-8213-eb4f90628e7d)
+
