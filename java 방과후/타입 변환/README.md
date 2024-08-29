@@ -34,3 +34,8 @@
     int intValue = 65;
     char charValue = (char) intValue;
     
+## S21200_01v4.java
+
+> 실행 결과
+
+![image](https://github.com/user-attachments/assets/91616186-27ad-4ba4-905d-53308efb6426)
