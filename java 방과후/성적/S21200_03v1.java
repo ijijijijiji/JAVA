@@ -17,8 +17,10 @@ public class S21200_03v1 {
 			grade = 'B';
 		}else if(score>70) {
 			grade = 'C';
-		}else {
+		}else if(score>60) {
 			grade = 'D';
+		}else {
+			grade = 'F';
 		}
 		
 		System.out.println("당신의 학점은 " + grade + "입니다.");
